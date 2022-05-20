@@ -60,3 +60,22 @@ Sou fascinado por computação desde criança e atualmente tenho me dedicado ao 
 - Nerd desde 1997.
 - A música sempre ajudou a aguçar a minha criatividade, então já viu, fone de ouvido no trabalho não pode faltar!
 - Nas horas vagas gosto de me distrair com games ou instrumentos músicais.
+  
+</p>
+</br>
+</br>
+<p align="center">
+  <a href="https://github.com/Ang310Moreira/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ang310Moreira&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Ang310Moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
